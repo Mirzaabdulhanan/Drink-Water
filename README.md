@@ -46,7 +46,7 @@ drink-water-goal/
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drink-water-goal.git
+   git clone https://mirzaabdulhanan.github.io/Drink-Water/
 
 2. Open index.html in your browser.
 
